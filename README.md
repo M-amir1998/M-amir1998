@@ -36,7 +36,7 @@ My academic path started in **Electronics Engineering** and **Telecommunication 
 My work combines **research depth** and **engineering execution**. I design systems that do not stop at theory: I build pipelines, benchmarks, fusion architectures, reasoning frameworks, evaluation tools, and production-oriented AI workflows. My current research revolves around three major pillars:
 
 - **Object-level onboard + V2X data fusion for connected automated vehicles**
-- **Ghost object mitigation using LLM-based reasoning and neurosymbolic AI**
+- **LLM-based reasoning and neurosymbolic AI**
 - **Physical AI based on world models for perception, fusion, and robust scene understanding**
 
 My long-term goal is to contribute as a **Robotics Engineer**, **AI Engineer**, **LLMOps Engineer**, or **MLOps Engineer** in the robotics, mobility, autonomous systems, or telecom industries by translating advanced AI research into **real, scalable, reliable systems**.
