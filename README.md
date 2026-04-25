@@ -325,7 +325,7 @@ My research interests span both my previous academic background and my current P
 - Benchmarking, evaluation, and system reproducibility  
 
 ---
-
+<!--
 # 🎯 Career Direction
 
 I am building toward industry roles such as:
@@ -338,7 +338,7 @@ I am building toward industry roles such as:
 - **Applied AI / Perception Engineer**
 - **AI Systems Engineer in robotics, mobility, telecom, or intelligent infrastructure**
 
-<!--
+
 My goal is to graduate in **2028** with a portfolio that demonstrates both:
 1. **strong scientific depth**, and  
 2. **real engineering readiness for production AI systems**.
