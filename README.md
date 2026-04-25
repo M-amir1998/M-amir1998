@@ -68,7 +68,7 @@ Reproducibility, evaluation, deployment, monitoring, experiment tracking, scalab
 </tr>
 </table>
 
----
+<!--
 
 # 🔬 Core Expertise Map
 
@@ -342,7 +342,7 @@ I am building toward industry roles such as:
 My goal is to graduate in **2028** with a portfolio that demonstrates both:
 1. **strong scientific depth**, and  
 2. **real engineering readiness for production AI systems**.
--->
+
 ---
 
 # 📌 Selected Themes I Want My Public Work to Represent
@@ -418,3 +418,4 @@ If you are interested in cooperation around:
 - or production-grade AI workflows,
 
 feel free to connect.
+-->
