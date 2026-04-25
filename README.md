@@ -386,10 +386,9 @@ My goal is to graduate in **2028** with a portfolio that demonstrates both:
 - **Master's** in Telecommunication Engineering  
 - **PhD** in Industrial and Telecommunication Engineering  
   **Universidad Miguel Hernández de Elche, Spain**  
-  Started in **2024** | Expected defense: **2028**
+  Started in **2024** 
 
 ---
-
 # 🔗 Connect With Me
 
 <p align="left">
@@ -409,7 +408,7 @@ My goal is to graduate in **2028** with a portfolio that demonstrates both:
 # ✨ Closing Note
 
 I am interested in building the next generation of intelligent systems that combine  
-**perception**, **reasoning**, **communication**, and **deployment-ready AI engineering**.
+**perception**, **reasoning**, **communication**, and **deployment-ready AI engineering**
 
 If you are interested in cooperation around:
 - robotics,
