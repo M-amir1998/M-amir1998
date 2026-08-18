@@ -30,7 +30,7 @@ Building intelligent systems for <b>connected automated vehicles</b>, <b>multise
 
 ## 🚀 Introduction
 
-I am a PhD researcher at **Universidad Miguel Hernández de Elche (Spain)** working at the intersection of **robotics, cooperative perception, multimodal AI, LLM-based reasoning, and deployable machine learning systems**.  
+I am a researcher at **Universidad Miguel Hernández de Elche (Spain)** working at the intersection of **robotics, cooperative perception, multimodal AI, LLM-based reasoning, and deployable machine learning systems**.  
 My academic path started in **Electronics Engineering** and **Telecommunication Engineering** during my Bachelor's and Master's studies, and evolved into a PhD focused on building intelligent robotic systems for **connected automated vehicles**.
 
 My work combines **research depth** and **engineering execution**. I design systems that do not stop at theory: I build pipelines, benchmarks, fusion architectures, reasoning frameworks, evaluation tools, and production-oriented AI workflows. My current research revolves around three major pillars:
