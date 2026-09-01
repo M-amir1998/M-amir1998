@@ -1,7 +1,7 @@
 <!-- ===========================
      HERO / HEADER
 =========================== -->
-
+<!--
 <h1 align="center">Hi, I'm Amir Mohammadisarab 👋</h1>
 
 <h3 align="center">
@@ -68,7 +68,7 @@ Reproducibility, evaluation, deployment, monitoring, experiment tracking, scalab
 </tr>
 </table>
 
-<!--
+
 
 # 🔬 Core Expertise Map
 
