@@ -51,12 +51,12 @@ Research code that survives production: Docker sandboxes, CI/CD, DVC and MLflow,
 <tr>
 <td width="50%" valign="top">
 
-### LLM Ghost Object Mitigation
-<p><img alt="AI" src="https://img.shields.io/badge/AI-4f46e5?style=flat-square"> <img alt="Robotics" src="https://img.shields.io/badge/Robotics-0891b2?style=flat-square"></p>
+### OCTOPUS
+<p><img alt="Robotics" src="https://img.shields.io/badge/Robotics-0891b2?style=flat-square"> <img alt="MLOps" src="https://img.shields.io/badge/MLOps-9333ea?style=flat-square"></p>
 
-Fine-tuned LLMs (LoRA/QLoRA) act as verifiers inside a V2X cooperative-perception pipeline, filtering, repairing and preventing ghost objects at three intervention points. Benchmarked against gradient-boosting and GNN policies.
+A simulator for onboard and V2X data fusion that runs online with SUMO: occlusion-aware sensing, Kalman tracking, Collective Perception Messages, S2S/S2G fusion and parameter sweeps on HTCondor.
 
-<sub>Python · PyTorch · PEFT · Ollama · scikit-learn</sub>
+<sub>Python · SUMO · DuckDB · mypy strict · pytest</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -70,15 +70,17 @@ Define a coding task once, run any AI agent against it in a locked-down Docker s
 
 </td>
 </tr>
+
+<!-- Hidden until finished: move a <td> block above (or delete these comment markers) to show it again.
 <tr>
 <td width="50%" valign="top">
 
-### OCTOPUS
-<p><img alt="Robotics" src="https://img.shields.io/badge/Robotics-0891b2?style=flat-square"> <img alt="MLOps" src="https://img.shields.io/badge/MLOps-9333ea?style=flat-square"></p>
+### LLM Ghost Object Mitigation
+<p><img alt="AI" src="https://img.shields.io/badge/AI-4f46e5?style=flat-square"> <img alt="Robotics" src="https://img.shields.io/badge/Robotics-0891b2?style=flat-square"></p>
 
-A simulator for onboard and V2X data fusion that runs online with SUMO: occlusion-aware sensing, Kalman tracking, Collective Perception Messages, S2S/S2G fusion and parameter sweeps on HTCondor.
+Fine-tuned LLMs (LoRA/QLoRA) act as verifiers inside a V2X cooperative-perception pipeline, filtering, repairing and preventing ghost objects at three intervention points. Benchmarked against gradient-boosting and GNN policies.
 
-<sub>Python · SUMO · DuckDB · mypy strict · pytest</sub>
+<sub>Python · PyTorch · PEFT · Ollama · scikit-learn</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -114,9 +116,11 @@ A safety-wrapped agent for a 5G industrial drone network: an LLM proposes where 
 
 </td>
 </tr>
+-->
+
 </table>
 
-<sub>🔒 Code for most of these projects is private for now. I'm happy to walk you through any of them.</sub>
+<sub>🔒 The code for these projects is private for now. I'm happy to walk you through either of them.</sub>
 
 ## Toolbox
 
