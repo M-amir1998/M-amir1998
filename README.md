@@ -16,9 +16,6 @@
   catching the ghost objects that fusion creates with fine-tuned LLMs, and running it all as tested, reproducible pipelines.
 </p>
 
-<p align="center">
-  🎯 <b>Open to</b> &nbsp;AI Engineer · Robotics Engineer · MLOps Engineer roles
-</p>
 
 ## What I do
 
